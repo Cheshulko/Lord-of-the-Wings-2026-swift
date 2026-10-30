@@ -3,6 +3,7 @@ enum Registry {
         Day01.self,
         Day02.self,
         Day03.self,
+        Day04.self,
     ]
 
     static func solution(for day: Int) -> (any Solution.Type)? {
