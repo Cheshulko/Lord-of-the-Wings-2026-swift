@@ -7,3 +7,4 @@
 | [Quest 03](Sources/LordOfTheWings/Days/Day03.swift): The ISOlation           | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 04](Sources/LordOfTheWings/Days/Day04.swift): The Rankening           | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 05](Sources/LordOfTheWings/Days/Day05.swift): The Cartograffity       | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
+| [Quest 06](Sources/LordOfTheWings/Days/Day06.swift): The Nullspiracy         | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
