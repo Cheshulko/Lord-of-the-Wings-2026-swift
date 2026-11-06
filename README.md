@@ -10,3 +10,4 @@
 | [Quest 06](Sources/LordOfTheWings/Days/Day06.swift): The Nullspiracy         | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 07](Sources/LordOfTheWings/Days/Day07.swift): The Explouding          | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 08](Sources/LordOfTheWings/Days/Day08.swift): The Entgineering        | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
+| [Quest 09](Sources/LordOfTheWings/Days/Day09.swift): The Sulphurprise        | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
