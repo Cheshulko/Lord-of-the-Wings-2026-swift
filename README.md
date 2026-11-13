@@ -14,3 +14,4 @@
 | [Quest 10](Sources/LordOfTheWings/Days/Day10.swift): The Phantasmagorithm    | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 11](Sources/LordOfTheWings/Days/Day11.swift): The Portalignment       | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 12](Sources/LordOfTheWings/Days/Day12.swift): The Castastrophe        | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
+| [Quest 13](Sources/LordOfTheWings/Days/Day13.swift): The Tickursion          | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
