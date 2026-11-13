@@ -15,3 +15,4 @@
 | [Quest 11](Sources/LordOfTheWings/Days/Day11.swift): The Portalignment       | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 12](Sources/LordOfTheWings/Days/Day12.swift): The Castastrophe        | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 13](Sources/LordOfTheWings/Days/Day13.swift): The Tickursion          | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
+| [Quest 14](Sources/LordOfTheWings/Days/Day14.swift): The Shardorithm         | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
