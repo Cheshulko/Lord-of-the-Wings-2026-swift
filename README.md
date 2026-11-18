@@ -18,3 +18,4 @@
 | [Quest 14](Sources/LordOfTheWings/Days/Day14.swift): The Shardorithm         | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 15](Sources/LordOfTheWings/Days/Day15.swift): The Explavigation       | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 16](Sources/LordOfTheWings/Days/Day16.swift): The Sortcery            | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
+| [Quest 17](Sources/LordOfTheWings/Days/Day17.swift): The Lavairynth          | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
