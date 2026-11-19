@@ -19,3 +19,4 @@
 | [Quest 15](Sources/LordOfTheWings/Days/Day15.swift): The Explavigation       | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 16](Sources/LordOfTheWings/Days/Day16.swift): The Sortcery            | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 17](Sources/LordOfTheWings/Days/Day17.swift): The Lavairynth          | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
+| [Quest 18](Sources/LordOfTheWings/Days/Day18.swift): The Keyometry           | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
